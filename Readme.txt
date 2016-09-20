@@ -1,1 +1,1 @@
-Currency Tool
+Currency Tool *Beta
