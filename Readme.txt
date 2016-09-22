@@ -1,1 +1,3 @@
 Currency Tool *Beta
+
+Requires
